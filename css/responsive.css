@@ -9,7 +9,7 @@
 flex-direction: column;
 height: 405px;
 transition: all 0.05s ease-out;
-background-color:#1a2f41;
+/* background-color:#1a2f41; */
 /* remove this line if you want to add image as background to navigatiion bar */
 }
 
@@ -100,7 +100,7 @@ margin: 10px 0px;
     margin-right: 4px;
 }
 
-footer .copyright_line{
+/* footer .copyright_line{
      background-color: #1a2f41; 
-     /* remover this if you want image as background */
-}
+      remove this if you want image as background 
+ }  */
