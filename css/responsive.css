@@ -1,0 +1,100 @@
+
+#navbar_list{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar{
+flex-direction: column;
+height: 405px;
+transition: all 0.5s ease-out;
+
+}
+
+#navbar_list li {
+   
+    margin: 15px 0px;
+}
+#right_nav{
+  
+    margin-top: 20px    ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#right_nav #search{
+    width: 100%;
+}
+#right_nav #search_btn{
+    margin: 10px 0px;
+}
+
+.burger{
+    display: block;
+}
+
+.height-nav-res{
+    height: 55px;
+}
+
+.visibility-res{
+   opacity: 0;
+}
+
+.box-main{
+    height: 85%;
+    flex-direction: column-reverse;
+}
+
+.buttons{
+   
+    margin: 5px 0px;
+}
+
+.text_big{
+font-size: 25px;
+margin: 10px 0px;
+}
+
+.text_small{
+    font-size: 15px;
+}
+
+.sec_info{
+    margin: 30px auto;
+    flex-direction: column-reverse;
+}
+.thumbnail{
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.thumbnail img{
+    width: 60%;
+}
+
+#second_half{
+    margin-bottom: 30px;
+}
+
+#second_half img {
+    width: 70%;
+}
+
+.form-input {
+    width: 75%;
+}
+
+.contact .heading {
+    font-size: 30px;
+}
+
+.submit-btn{
+    padding: 4px 14px;
+    margin: 10px 0px;
+    font-size: 16px;
+    margin-right: 4px;
+}
